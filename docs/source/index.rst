@@ -15,4 +15,5 @@ Contents
 
 .. toctree::
 
+   installing
    usage
