@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Galaxy Flasher'
+copyright = '2024, ethical_haquer'
+author = 'ethical_haquer'
 
-release = '0.1'
-version = '0.1.0'
+release = '0.5.1'
+version = '0.5.1'
 
 # -- General configuration
 
@@ -26,6 +26,8 @@ intersphinx_mapping = {
 intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
+
+nitpicky = True
 
 # -- Options for HTML output
 
