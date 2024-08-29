@@ -1,6 +1,7 @@
 As a Flatpak
 ============
 
+.. _flatpak prerequisites:
 Prerequisites
 -------------
 
@@ -10,7 +11,7 @@ Prerequisites
 Installation
 ------------
 
-  1. First of all, make sure you have the :ref:`above prerequisites    <Prerequisites>`.
+  1. First of all, make sure you have the :ref:`above prerequisites    <flatpak prerequisites>`.
   2. Download the latest "galaxy-flasher-version-os.zip" file from 'the GitHub Releases page <https://github.com/ethical-haquer/Galaxy-Flasher/releases>'_. It is a good idea to make a new directory and save the file there, to keep it more contained.
   3. Once the file is downloaded, extract it.
   4. Move into the newly extracted directory. It should be named the same as the file, minus the ".zip" part.
