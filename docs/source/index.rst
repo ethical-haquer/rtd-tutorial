@@ -1,5 +1,5 @@
 Welcome to Galaxy Flasher's documentation!
-===================================
+==========================================
 
 Galaxy Flasher is a GUI for Samsung flash-tools.
 
