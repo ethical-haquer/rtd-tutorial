@@ -2,6 +2,7 @@ As a Flatpak
 ============
 
 .. _flatpak prerequisites:
+
 Prerequisites
 -------------
 
