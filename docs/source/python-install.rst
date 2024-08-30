@@ -20,6 +20,6 @@ Installation
 
 5. Run this command::
 
-  $ python3 galaxy-flasher.py
+    $ python3 galaxy-flasher.py
 
 6. If Galaxy Flasher starts up, then you're done. Congratulations! If you instead get errors, **please let me know**. Thanks!
