@@ -9,7 +9,7 @@ Prerequisites
 
   ...[flatpak-builder] is usually available from the same repository as   the flatpak package (e.g. use apt or dnf). You can also install it as a flatpak with ``flatpak install flathub org.flatpak.Builder``.
   
-* flatpak-builder - According to `here <https://docs.flatpak.org/en/latest/first-build.html>`__::
+* flatpak-builder - According to `here <https://docs.flatpak.org/en/latest/first-build.html>`__:
 
   """
   [flatpak-builder] is usually available from the same repository as
