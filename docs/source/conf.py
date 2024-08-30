@@ -31,6 +31,8 @@ templates_path = ['_templates']
 
 nitpicky = True
 
+autosectionlabel_prefix_document = True
+
 # -- Options for HTML output
 
 html_theme = "furo"
