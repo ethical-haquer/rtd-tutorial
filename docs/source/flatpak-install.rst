@@ -20,7 +20,7 @@ Installation
 6. Run this command in the terminal::
 
   $ ./build.sh
-  
+
 You must be located in the same "flatpak" directory in the terminal when you run it. If you don't know how to change directories in the terminal, look at `this guide <https://itsfoss.com/change-directories/>`_.
 7. If the command finishes with a lot of output, and you get no errors, then go to step 17. If you instead get "Failed to init: Unable to find sdk org.gnome.Sdk version 46", continue following the steps below.
 8. Run "flatpak install org.gnome.Sdk" in the terminal. You should get a list of different versions to choose from.
@@ -45,3 +45,4 @@ You should get a list of different versions to choose from.
 17. You've finished installing Galaxy Flasher, congratulations! Galaxy Flasher should now show up as an app. You can also run it from the terminal with::
 
   $ flatpak run com.ethicalhaquer.galaxyflasher
+
