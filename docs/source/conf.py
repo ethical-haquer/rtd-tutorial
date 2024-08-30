@@ -6,8 +6,8 @@ project = 'Galaxy Flasher'
 copyright = '2024, ethical_haquer'
 author = 'ethical_haquer'
 
-release = '0.5.1'
-version = '0.5.1'
+release = ''
+version = ''
 
 # -- General configuration
 
