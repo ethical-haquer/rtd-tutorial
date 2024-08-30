@@ -7,7 +7,7 @@ Prerequisites
 -------------
 
 * flatpak - Go `here <https://www.flatpak.org/setup/>`__, select your distro, and follow the directions to install flatpak.
-* flatpak-builder - According to `here <https://docs.flatpak.org/en/latest/first-build.html>`__:
+* flatpak-builder - According to `here <https://docs.flatpak.org/en/latest/first-build.html>`__::
     ...[flatpak-builder] is usually available from the same repository as the flatpak package (e.g. use apt or dnf). You can also install it as a flatpak with ``flatpak install flathub org.flatpak.Builder``.
 
 Installation
@@ -18,7 +18,7 @@ Installation
   3. Once the file is downloaded, extract it.
   4. Move into the newly extracted directory. It should be named the same as the file, minus the ".zip" part.
   5. Move into the "flatpak" directory.
-  6. Run the command ``./build.sh`` in the terminal. You must be located in the same "flatpak" directory in the terminal when you run it. If you don't know how to change directories in the terminal, look at `this guide <https://itsfoss.com/change-directories/>`_.
+  6. Run the command `./build.sh` in the terminal. You must be located in the same "flatpak" directory in the terminal when you run it. If you don't know how to change directories in the terminal, look at `this guide <https://itsfoss.com/change-directories/>`_.
   7. If the command finishes with a lot of output, and you get no errors, then go to step 17. If you instead get "Failed to init: Unable to find sdk org.gnome.Sdk version 46", continue following the steps below.
   8. Run "flatpak install org.gnome.Sdk" in the terminal. You should get a list of different versions to choose from.
   9. Select version 46.
