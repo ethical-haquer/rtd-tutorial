@@ -5,10 +5,6 @@ Prerequisites
 -------------
 
 * flatpak - Go `here <https://www.flatpak.org/setup/>`__, select your distro, and follow the directions to install flatpak.
-* flatpak-builder - According to `here <https://docs.flatpak.org/en/latest/first-build.html>`__::
-
-  ...[flatpak-builder] is usually available from the same repository as   the flatpak package (e.g. use apt or dnf). You can also install it as a flatpak with ``flatpak install flathub org.flatpak.Builder``.
-  
 * flatpak-builder - According to `here <https://docs.flatpak.org/en/latest/first-build.html>`__:
 
   "...[flatpak-builder] is usually available from the same repository as the flatpak package (e.g. use apt or dnf). You can also install it as a flatpak with ``flatpak install flathub org.flatpak.Builder``."
@@ -16,7 +12,7 @@ Prerequisites
 Installation
 ------------
 
-1. First of all, make sure you have the :ref:`above prerequisites    <flatpak-install:Prerequisites>`.
+1. First of all, make sure you have the :ref:`above prerequisites <flatpak-install:Prerequisites>`.
 
 2. Download the latest "galaxy-flasher-version-os.zip" file from `the GitHub Releases page <https://github.com/ethical-haquer/Galaxy-Flasher/releases/>`_. It is a good idea to make a new directory and save the file there, to keep it more contained.
 
