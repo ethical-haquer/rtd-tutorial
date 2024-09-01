@@ -3,7 +3,7 @@ Installing
 
 There are currently two ways to install/use Galaxy Flasher:
 
-* :ref:`As a Flatpak <flatpak-install>`
+* :doc:`As a Flatpak <flatpak-install>`
 * As a .py file
 
 .. toctree::
