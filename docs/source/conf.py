@@ -33,7 +33,7 @@ nitpicky = True
 
 autosectionlabel_prefix_document = True
 
-copybutton_exclude = ".go"
+copybutton_prompt_text = "$ "
 
 # -- Options for HTML output
 
