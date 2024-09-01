@@ -33,6 +33,8 @@ nitpicky = True
 
 autosectionlabel_prefix_document = True
 
+copybutton_exclude = ".go"
+
 # -- Options for HTML output
 
 html_theme = "furo"
