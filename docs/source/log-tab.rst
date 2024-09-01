@@ -1,0 +1,5 @@
+Log Tab
+=======
+
+The Log Tab displays the output from the flash-tool.
+You are also able to enter flash-tool commands into the Log Tab, just as you would in the terminal.
