@@ -8,6 +8,8 @@ The Log Tab displays the output from the flash-tool.
 You are also able to enter flash-tool commands into the Log Tab, just as you would in the terminal.
 
 Options Tab
+-----------
+
 The Options Tab is where you can set flash-tool specific options.
 
 For Thor, the options are:
@@ -42,9 +44,9 @@ You will have to restart Galaxy Flasher after changing this setting for it to ap
 
 * Theme - The theme you would like Galaxy Flasher to use. The options are:
 
-    * System - Galaxy Flasher will attempt to use the system theme.
-    * Light - Light theme.
-    * Dark - Dark theme.
+  * System - Galaxy Flasher will attempt to use the system theme.
+  * Light - Light theme.
+  * Dark - Dark theme.
 
 * Keep Log dark - Keeps the Log Tab dark, regardless of the theme.
     
