@@ -7,9 +7,6 @@ Galaxy Flasher is a GUI for Samsung flash-tools.
 
    These docs are under active development.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`usage:Installation` the project.
-
 Contents
 --------
 
