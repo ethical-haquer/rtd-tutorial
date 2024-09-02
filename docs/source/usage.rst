@@ -24,3 +24,4 @@ The entry above the file selection buttons/entries is the `Command Entry <https:
 
    tabs
    selecting-files
+   flashing-files
