@@ -16,7 +16,7 @@ Thor
 Odin4
 -----
 
-  Please note that unlike Thor, Odin4 does not have a "Verify Flash" window. If you accidentally started flashing your device, you can disconnect it from your computer when Odin4 is verifying the files. (verifying the files is the first thing it does, followed by flashing them) However, if Odin4 has already started flashing the files to your device, disconnecting your device may cause even more issues.
+.. Note:: Unlike Thor, Odin4 does not have a "Verify Flash" window. If you accidentally started flashing your device, you can disconnect it from your computer when Odin4 is verifying the files. (verifying the files is the first thing it does, followed by flashing them) However, if Odin4 has already started flashing the files to your device, disconnecting your device may cause even more issues.
 
 * Click the "Flash!" button. (after you have selected at least one file to flash)
 * If there is more than one device connected, you will be prompted to select a device.
