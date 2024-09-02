@@ -1,6 +1,14 @@
 Options Tab
 ===========
 
+.. image:: _static/galaxy-flasher-options-tab-dark.png
+   :alt: A screenshot of the Options Tab.
+   :class: only-dark
+
+.. image:: _static/galaxy-flasher-options-tab-light.png
+   :alt: A screenshot of the Options Tab.
+   :class: only-light
+
 The Options Tab is where you can set flash-tool specific options.
 
 For Thor, the options are:

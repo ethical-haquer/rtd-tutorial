@@ -39,5 +39,9 @@ copybutton_prompt_text = "$ "
 
 html_theme = "furo"
 
+html_theme_options = {
+    "announcement": "<em>Notice:</em> These docs are still under development.",
+}
+
 # -- Options for EPUB output
 epub_show_urls = 'footnote'

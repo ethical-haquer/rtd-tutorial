@@ -4,7 +4,7 @@ Welcome to Galaxy Flasher's documentation!
 .. image:: _static/galaxy-flasher-dark.png
    :alt: A screenshot of Galaxy Flasher.
    :class: only-dark
-   
+
 .. image:: _static/galaxy-flasher-light.png
    :alt: A screenshot of Galaxy Flasher.
    :class: only-light
