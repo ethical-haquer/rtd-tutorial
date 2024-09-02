@@ -17,6 +17,5 @@ Contents
 .. toctree::
    :maxdepth: 2
    
-   installing
+   installation
    usage
-   tabs

@@ -1,7 +1,15 @@
 Usage
 =====
 
-Galaxy Flasher's layout is similar to Odin.
+Galaxy Flasher's layout is similar to Odin:
+
+.. image:: _static/galaxy-flasher-dark.png
+   :alt: A screenshot of Galaxy Flasher.
+   :class: only-dark
+
+.. image:: _static/galaxy-flasher-light.png
+   :alt: A screenshot of Galaxy Flasher.
+   :class: only-light
 
 In the upper-right there are four buttons: "Log", "Options", "Pit", and "Settings". Clicking these buttons will change what "tab" you are viewing. All four tabs are described `here <https://github.com/ethical-haquer/Galaxy-Flasher?tab=readme-ov-file#tabs>`_.
 
