@@ -10,3 +10,9 @@ On the right side you will see five rows that each have a button and an entry. T
 For how to flash files, `look here <https://github.com/ethical-haquer/Galaxy-Flasher?tab=readme-ov-file#flashing-files>`_.
 
 The entry above the file selection buttons/entries is the `Command Entry <https://github.com/ethical-haquer/Galaxy-Flasher?tab=readme-ov-file#command-entry>`_.
+
+.. toctree::
+   :maxdepth: 2
+
+   tabs
+   selecting-files
