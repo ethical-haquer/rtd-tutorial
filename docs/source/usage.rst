@@ -11,13 +11,13 @@ Galaxy Flasher's layout is similar to Odin:
    :alt: A screenshot of Galaxy Flasher.
    :class: only-light
 
-In the upper-right there are four buttons: "Log", "Options", "Pit", and "Settings". Clicking these buttons will change what "tab" you are viewing. All four tabs are described `here <https://github.com/ethical-haquer/Galaxy-Flasher?tab=readme-ov-file#tabs>`_.
+In the upper-right there are four buttons: "Log", "Options", "Pit", and "Settings". Clicking these buttons will change what "tab" you are viewing. All four tabs are described :doc:`here <tabs>`.
 
-On the right side you will see five rows that each have a button and an entry. That is where you can `select files <https://github.com/ethical-haquer/Galaxy-Flasher?tab=readme-ov-file#selecting-files>`_.
+On the right side you will see five rows that each have a button and an entry. That is where you can :doc:`select files <selecting-files>`.
 
-For how to flash files, `look here <https://github.com/ethical-haquer/Galaxy-Flasher?tab=readme-ov-file#flashing-files>`_.
+For how to flash files, :doc:`look here <flashing-files>`.
 
-The entry above the file selection buttons/entries is the `Command Entry <https://github.com/ethical-haquer/Galaxy-Flasher?tab=readme-ov-file#command-entry>`_.
+The entry above the file selection buttons/entries is the :doc:`Command Entry <command-entry>`.
 
 .. toctree::
    :maxdepth: 2
@@ -25,3 +25,4 @@ The entry above the file selection buttons/entries is the `Command Entry <https:
    tabs
    selecting-files
    flashing-files
+   command-entry
