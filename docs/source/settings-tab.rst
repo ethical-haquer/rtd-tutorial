@@ -1,6 +1,14 @@
 Settings Tab
 ============
 
+.. image:: _static/galaxy-flasher-settings-tab-dark.png
+   :alt: A screenshot of the Settings Tab.
+   :class: only-dark
+
+.. image:: _static/galaxy-flasher-settings-tab-light.png
+   :alt: A screenshot of the Settings Tab.
+   :class: only-light
+
 The Settings Tab is where you can change Galaxy Flasher's settings.
 Here is a list of them:
 
